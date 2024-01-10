@@ -1,4 +1,4 @@
-This repo contains two separate branches for two different applications: 1). form autofilling, 2). interview training chatbot
+This repo contains two separate branches for two different applications: 1). DS160 Form Autofilling, 2). Interview Training Chatbot
 
 1. DS160 Form Autofilling :
   1.1 The user accesses the form in the simplified Chinese characters via a website created with MEAN stack.
@@ -9,4 +9,8 @@ This repo contains two separate branches for two different applications: 1). for
   1.6. Once the above text file is saved successfully, the data from the text file is pasted onto the form in English.
   1.7. The value entered by the user ranges from numbers, strings, and multiline text strings.
 
+
+2. Interview Training Chatbot:
+  Based on the information gathered via the Form AutoFill application, 
+  this training application will ask the user questions in order to enhance his/her confidence.
 
