@@ -1,16 +1,3 @@
 This repo contains two separate branches for two different applications: 1). DS160 Form Autofilling, 2). Interview Training Chatbot
 
-1. DS160 Form Autofilling :
-  1.1 The user accesses the form in the simplified Chinese characters via a website created with MEAN stack.
-  1.2 The user first inputs the required information into the corresponding fields.
-  1.3. Once the user clicks on the Submit button, the application first checks all the input based on pre-deteremined conditions, such as date formation style, no null, etc.
-  1.4. If all the errors are cleared or there is no error, the application generates all the key value pairs for all corresponding fields of the form in the designated format such JSON, XML, or CSV.
-  1.5. When a data format is selected, all the key value pairs are saved as a text file.
-  1.6. Once the above text file is saved successfully, the data from the text file is pasted onto the form in English.
-  1.7. The value entered by the user ranges from numbers, strings, and multiline text strings.
-
-
-2. Interview Training Chatbot:
-  Based on the information gathered via the Form AutoFill application, 
-  this training application will ask the user questions in order to enhance his/her confidence.
 
